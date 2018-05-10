@@ -4,7 +4,7 @@
 #
 Name     : thunar-volman
 Version  : 0.8.1
-Release  : 5
+Release  : 6
 URL      : http://archive.xfce.org/src/xfce/thunar-volman/0.8/thunar-volman-0.8.1.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/thunar-volman/0.8/thunar-volman-0.8.1.tar.bz2
 Summary  : No detailed summary available
