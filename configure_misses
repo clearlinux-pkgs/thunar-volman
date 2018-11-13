@@ -1,0 +1,5 @@
+Configure miss: path.h usability
+Configure miss: path.h presence
+Configure miss: path.h
+Configure miss: dummy
+Configure miss: optional package libnotify >= 0.4.0
