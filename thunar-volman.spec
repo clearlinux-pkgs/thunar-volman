@@ -4,7 +4,7 @@
 #
 Name     : thunar-volman
 Version  : 0.9.0
-Release  : 8
+Release  : 9
 URL      : http://archive.xfce.org/src/xfce/thunar-volman/0.9/thunar-volman-0.9.0.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/thunar-volman/0.9/thunar-volman-0.9.0.tar.bz2
 Summary  : No detailed summary available
@@ -76,7 +76,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1542229324
+export SOURCE_DATE_EPOCH=1542230087
 %configure --disable-static
 make  %{?_smp_mflags}
 
@@ -88,7 +88,7 @@ export no_proxy=localhost,127.0.0.1,0.0.0.0
 make VERBOSE=1 V=1 %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1542229324
+export SOURCE_DATE_EPOCH=1542230087
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/thunar-volman
 cp COPYING %{buildroot}/usr/share/package-licenses/thunar-volman/COPYING
