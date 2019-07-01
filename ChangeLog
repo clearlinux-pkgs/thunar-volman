@@ -1,3 +1,151 @@
+commit 9e5a04cf8e5bc9d602c404b51ba5960322ac8058
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon Jun 24 18:30:37 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 3115172532b1ee07bce017479bb2573d2aadec97
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sun Jun 23 18:25:26 2019 -0300
+
+    Removed # vi:set encoding=UTF-8: from .desktop files (Bug #15466)
+
+commit eafe4ece73bf6ace185c880767e0ecd8e5a2b9a0
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Jun 18 00:30:54 2019 +0200
+
+    I18n: Update translation da (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 2f302d2db368bb63fbe92cce0e5e069399086478
+Author: Real School <translator_students@realschool.am>
+Date:   Wed Jun 12 18:31:03 2019 +0200
+
+    I18n: Update translation hy_AM (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 159468214bf546cd1d2d6e57c8f8adc87a76ec24
+Author: Hayk Andreasyan <hayk.andreasyan@realschool.am>
+Date:   Tue Jun 11 18:30:43 2019 +0200
+
+    I18n: Update translation hy_AM (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 4b8adbfdbc70e1e72b1aa06872e14640d613df45
+Author: Hayk Andreasyan <hayk.andreasyan@realschool.am>
+Date:   Tue Jun 11 12:30:29 2019 +0200
+
+    I18n: Update translation hy_AM (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 92815ac5218e7df975e320a2f20a4f2f9a39f437
+Author: Real School <translator_students@realschool.am>
+Date:   Tue Jun 11 00:30:28 2019 +0200
+
+    I18n: Add new translation hy_AM (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 47d3bbf024e1a3dc13f004ffed98cecff5d14219
+Author: Anonymous <noreply@xfce.org>
+Date:   Wed May 29 18:30:38 2019 +0200
+
+    I18n: Update translation da (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 712347a3166ca332509d054e9bc447c17a8056f0
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon May 27 18:30:57 2019 +0200
+
+    I18n: Update translation da (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit a2dedd9be2cda634b96e22276e3f07dae1861caf
+Author: Nuno Miguel <nunomgue@gmail.com>
+Date:   Sun May 26 18:30:42 2019 +0200
+
+    I18n: Update translation pt (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 030e9ca2d508daf40f563e04dcc30961701fd462
+Author: Serdar Sağlam <teknomobil@msn.com>
+Date:   Thu May 23 18:30:40 2019 +0200
+
+    I18n: Update translation tr (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit eb0de3d59f25cd6256f8022b981dde8f53d9efb8
+Author: Serdar Sağlam <teknomobil@msn.com>
+Date:   Thu May 23 12:31:23 2019 +0200
+
+    I18n: Update translation tr (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 329ac64cd0bf3308cdd6993a01a56d051060a0ed
+Author: Serdar Sağlam <teknomobil@msn.com>
+Date:   Thu May 23 06:30:41 2019 +0200
+
+    I18n: Update translation tr (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 0b4c6b2e91b68294dd17a4e093413eb88497ad67
+Author: Anonymous <noreply@xfce.org>
+Date:   Mon May 20 18:30:54 2019 +0200
+
+    I18n: Update translation ie (99%).
+    
+    119 translated messages, 1 untranslated message.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 852eb6e406b2ccbc4319804f2e716e1c779048ab
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Fri May 17 15:31:40 2019 -0300
+
+    Back to development
+
+commit b05df9dad97b54d66a9b754c57777441e3352fff
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Fri May 17 15:29:00 2019 -0300
+
+    Updates for release
+
 commit e9a8aa03576ea789307fbfab098273220b803a3e
 Author: Anonymous <noreply@xfce.org>
 Date:   Fri May 17 18:31:22 2019 +0200
