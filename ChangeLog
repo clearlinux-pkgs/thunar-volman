@@ -1,3 +1,35 @@
+commit a96329909ca49c5f25401035f927976def0fb181
+Author: Kjell Cato Heskjestad <cato@heskjestad.xyz>
+Date:   Wed Jul 24 12:31:21 2019 +0200
+
+    I18n: Update translation nb (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 290a8cce21653b5d2876837bd7764c2cda2f50f9
+Author: Jiri Grönroos <jiri.gronroos@iki.fi>
+Date:   Wed Jul 17 12:30:55 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    120 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 7217232bb769f0e75895662e434e4020fe386c6a
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sat Jun 29 21:55:09 2019 -0300
+
+    Back to development
+
+commit 8a04a5613a341ee7358eb4eb73a493767443586c
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sat Jun 29 21:52:30 2019 -0300
+
+    Updates for release
+
 commit 9e5a04cf8e5bc9d602c404b51ba5960322ac8058
 Author: Anonymous <noreply@xfce.org>
 Date:   Mon Jun 24 18:30:37 2019 +0200
