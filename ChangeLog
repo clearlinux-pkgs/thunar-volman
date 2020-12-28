@@ -1,3 +1,67 @@
+commit 824aefdd07623918289bbf7a8b62c6896e65e11a
+Author: Alexander Schwinn <alexxcons@xfce.org>
+Date:   Tue Dec 15 23:05:56 2020 +0100
+
+    Remove GLIB_CHECK_VERSION IFDEFs which are obsolete after glib bump
+    
+    Current glib minimum is 2.50.0
+
+commit 3c49c758da7bc1c1ebfcbb206898318ec7db3a6c
+Author: Alexander Schwinn <alexxcons@xfce.org>
+Date:   Tue Dec 8 22:47:31 2020 +0100
+
+    bump glib (and gio, gthread, etc) minimum to 2.50.0
+    
+    As agreed on the 4.16 roadmap
+
+commit a93a38de6f7a7be0373580acfcb5218cb77d8306
+Author: Le Tri <Leminhtri10a1t@gmail.com>
+Date:   Sun Dec 13 12:46:24 2020 +0100
+
+    I18n: Update translation vi (66%).
+    
+    76 translated messages, 39 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit ee0b32355d55c25632b8be0ba7626bfd07ed6d42
+Author: Emin Tufan Çetin <etcetin@gmail.com>
+Date:   Fri Nov 20 12:45:55 2020 +0100
+
+    I18n: Update translation tr (100%).
+    
+    115 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 070264ee3987c7ef22f955aed1ae20d967a10c50
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Fri Nov 13 01:20:49 2020 -0300
+
+    Add README.md to EXTRA_DIST
+
+commit bfb09147d8679c65a168d1a049a12d3cec08f8c7
+Author: Emin Tufan <etcetin@gmail.com>
+Date:   Thu Nov 5 00:45:49 2020 +0100
+
+    I18n: Update translation tr (100%).
+    
+    115 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 092d1639632944b6049510746beffc313b193969
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Mon Nov 2 15:49:11 2020 -0300
+
+    Back to development
+
+commit 4ae7673049e860047a7a6388b5afb38108d79da4
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Mon Nov 2 15:47:37 2020 -0300
+
+    Updates for release
+
 commit 29de9ef00127c3435c90d5ba43c1df4e9aee33f8
 Author: Xfce Bot <transifex@xfce.org>
 Date:   Fri Oct 16 18:18:58 2020 +0200
